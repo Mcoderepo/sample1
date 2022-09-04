@@ -4,3 +4,4 @@ Enjoy.
 fixedBug 
 A new line of code
 Another line of code
+One more line of code.
